@@ -6,3 +6,4 @@
   duration: 2018.3 &mdash; Present
   # url: "#"
   description: We want to use deep learning and variational bayes probablistic model to find the basic pattern(or mainfold) which generate the medical images. 
+    -publication : An unsupervised suggestive annotation algorithm for 3D CT image processing(EI)
