@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Haozhe Feng"
-resume_title:                   "Stay foolish, stay hungry"
+resume_title:                   "There is only one definition of success - to be able to spend your life in your own way"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "fenghaozhe1996@gmail.com"
@@ -23,7 +23,7 @@ resume_contact_address:         "Yuquan Campus,Dormitory N0.1"
 resume_header_contact_info:     "Yuquan Campus,Dormitory N0.1 • 13282035501 • fenghaozhe1996@gmail.com"
 display_header_contact_info:    "True"
 
-resume_header_intro: "<p>I am study for a Ph.D. in the State Key Lab of CAD&CG at Zhejiang University. I received my BS degree in Mathematics Statistics from Zhejiang University. My research interest includes machine learning / deep learning / probabilistic model / medical image&info analysis / computer version.</p>"
+resume_header_intro: "<p>I am study for a Ph.D. in the State Key Lab of CAD&CG at Zhejiang University. I received my BS degree in Mathematics Statistics from Zhejiang University. My research interest includes machine learning / deep learning / probabilistic model / medical image&info analysis / computer vision.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
