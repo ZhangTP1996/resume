@@ -1,6 +1,6 @@
 # Site settings
-title: "FengHZ's Resume"
-description: "A resume of FengHZ."
+title: "ZhangTP's Resume"
+description: "A resume of ZhangTP."
 
 # Build settings
 markdown: kramdown
@@ -10,20 +10,20 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Haozhe Feng"
+resume_name:                    "Tianping Zhang"
 resume_title:                   "There is only one definition of success - to be able to spend your life in your own way"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "fenghaozhe1996@gmail.com"
+resume_contact_email:           "ztp18@mails.tsinghua.edu.cn"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "13282035501"
-resume_contact_address:         "Yuquan Campus,Dormitory N0.1"
+resume_contact_telephone:       "13606030330"
+resume_contact_address:         "Tsinghua University"
 
-resume_header_contact_info:     "Yuquan Campus,Dormitory N0.1 • 13282035501 • fenghaozhe1996@gmail.com"
+resume_header_contact_info:     "Tsinghua University • 13606030330 • fenghaozhe1996@gmail.com"
 display_header_contact_info:    "True"
 
-resume_header_intro: "<p>I am studying for a Ph.D. in the State Key Lab of CAD&CG at Zhejiang University. I received my BS degree in Mathematics Statistics from Zhejiang University. My research interest includes machine learning / deep learning / probabilistic model / medical image&info analysis / computer vision.</p>"
+resume_header_intro: "<p>I am studying for a Ph.D. in the ADL Group of IIIS at Tsinghua University. I received my BS degree in Mathematics Statistics from Zhejiang University. My research interest includes machine learning and its applications in finance.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -36,11 +36,11 @@ resume_looking_for_work:        "no"
 resume_section_experience:      false
 resume_section_education:       true
 resume_section_projects:        true
-resume_section_skills:          true
+resume_section_skills:          False
 resume_section_recognition:     False
 resume_section_links:           false
 resume_section_associations:    False
-resume_section_interests:       true
+resume_section_interests:       False
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
